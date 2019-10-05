@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Login RestApp</string>
+    <string name="register">Usuário registrado com sucesso.</string>
+</resources>
